@@ -75,19 +75,19 @@ Social Media:
 
 Animation:
 
-      	Aphie head crush (1/1, more shading), Police Dog Death scene (60/120 Frames), Aphie Crawling (2/2), 
-      	Jen Kneeling (1/1), Jen Standing (1/1), 
+	Aphie head crush (1/1, more shading), Police Dog Death scene (60/120 Frames), Aphie Crawling (2/2), 
+	Jen Kneeling (1/1), Jen Standing (1/1), 
 
 
 Character Sprites:
 
-	      NeverMissTheTrain (1/1), batanVisage(1/1), Jennifer (4/4), Tipzl (1/?), Spoderman (1/1), PeepoSativum (1/1), 
-	      Pastel Shark (2/2), Ntr5Ctr (1/1), Aphie's Car (1/1), Aph's Crashed Car (1/1), Jen Kneeling (1/1)
+	NeverMissTheTrain (1/1), batanVisage(1/1), Jennifer (4/4), Tipzl (1/?), Spoderman (1/1), PeepoSativum (1/1), 
+	Pastel Shark (2/2), Ntr5Ctr (1/1), Aphie's Car (1/1), Aph's Crashed Car (1/1), Jen Kneeling (1/1)
 	
 
 Combat: 
 
-	      Police Dogs (2/2), Normal Police (3/3), 
+	Police Dogs (2/2), Normal Police (3/3), 
 
 Music & Sound:
 
@@ -103,12 +103,12 @@ Social Media:
 
 Terrain: 
 
-	      Concrete Curn (4/4), Curb Corner (4/4), Asphalt (6/?), Park Fountain (1/1), Brutalist Apartments (3/?), 
+	Concrete Curn (4/4), Curb Corner (4/4), Asphalt (6/?), Park Fountain (1/1), Brutalist Apartments (3/?), 
 
 	
 User Interface:
 
-	      Combat Menus (12/12), Title Screen Sprites (5/5), Custom Font (1/2), MtF Dysphoria Bar (1/1), 
+	Combat Menus (12/12), Title Screen Sprites (5/5), Custom Font (1/2), MtF Dysphoria Bar (1/1), 
 
 [===========================================================================================]
                                 	[Story Board]
@@ -129,15 +129,15 @@ Prologue:
   	Music should be somewhat upbeat for beginning of the game but with a quiet sad undertone
 
 Act 1: 
-  	J&T's Apartment Number (41) shown, knock at the door, Jen opens the door to find estrogen vials and some pamphlets,
-  	J talks to T, J describes the doomer pamphlets left by their dealer (hatman) and Tipzl anxiously describes 
-  	panic by trans people on "the board/sub" including an instance of police brutality, 
-  	crash is heard outside, J&T look out their apartment window, Aphie's head is crushed by a police cruiser, 
-  	J&T hear banging at their door, radio static and muttering can be heard indicating it is the police,
-  	J&T flee down their fire escape, J&T inspect the car of the car victim, find vials of estrogen, they find the 
-  	ID of Aphie, J grabs T and flees down nearby alley becaues the police cruiser that ran over
-  	Aphie has returned to the scene, J&T talk, J says they should go to Club Androlyte to look for Hatman or place to 
-  	hide. 
+	J&T's Apartment Number (41) shown, knock at the door, Jen opens the door to find estrogen vials and some pamphlets,
+	J talks to T, J describes the doomer pamphlets left by their dealer (hatman) and Tipzl anxiously describes 
+	panic by trans people on "the board/sub" including an instance of police brutality, 
+	crash is heard outside, J&T look out their apartment window, Aphie's head is crushed by a police cruiser, 
+	J&T hear banging at their door, radio static and muttering can be heard indicating it is the police,
+	J&T flee down their fire escape, J&T inspect the car of the car victim, find vials of estrogen, they find the 
+	ID of Aphie, J grabs T and flees down nearby alley becaues the police cruiser that ran over
+	Aphie has returned to the scene, J&T talk, J says they should go to Club Androlyte to look for Hatman or place to 
+	hide. 
   
   	Players are dropped into the over world. 
   
