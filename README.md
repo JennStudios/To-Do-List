@@ -32,9 +32,10 @@ Animations:
 
 
 Art:
-              Rung (1), AugDog (2), AugCop(Pistol) (2), AugCop(Rifle) (1), AugCop(Shotgun) (2), Self Driving Police Car (1), 
-            	AugSheriff (1), Aug Deputy (2), AugHWPatrol (2), [BoM] Agent Stymitz (1), [BoA] Agent Listock (1), 
-            	[Martial] Agent Kayrawn (1), National Militia(Medic) (1), National Militia(Police) (2), 
+
+	Rung (1), AugDog (2), AugCop(Pistol) (2), AugCop(Rifle) (1), AugCop(Shotgun) (2), Self Driving Police Car (1), 
+	AugSheriff (1), Aug Deputy (2), AugHWPatrol (2), [BoM] Agent Stymitz (1), [BoA] Agent Listock (1), 
+	[Martial] Agent Kayrawn (1), National Militia(Medic) (1), National Militia(Police) (2), 
 
 
 Music & Sound:
