@@ -16,20 +16,19 @@ Animations:
 
 	Combat: 	
 
-              Cop Club Smash (2), Pistol Cop Shoot/Whip(2), Rifle Cop Attack (2), Dog Bite/Bark/Growl (3), 
-              Terf Blog Attack (1), Terf Attack (1), Terf Inflict Dysphoria (1), Lynch Mob Throw Brick (1), 
-              Lynch Mob Throw Molitov (1), Lynch Mob Leer (1), Tipzl Kneel (1), Tipzl Stand (1)
+		Cop Club Smash (2), Pistol Cop Shoot/Whip(2), Rifle Cop Attack (2), Dog Bite/Bark/Growl (3), 
+		Terf Blog Attack (1), Terf Attack (1), Terf Inflict Dysphoria (1), Lynch Mob Throw Brick (1), 
+		Lynch Mob Throw Molitov (1), Lynch Mob Leer (1), Tipzl Kneel (1), Tipzl Stand (1)
           		
 
-	OverWorld:	
-		
-              Jen walking, Jen and Tipzl Talking (2), Jen emotions (3), Tipzl Emotions (3), Death by Police Brutality (3), 
-              Death by Cis Lynch Mob (1), Death to vigalante Terfs (2), , Fishing Fountain (2), Fishing Drainage Ditch (2), 
-              Luminousz Lights (xyz), Luminousz Billboards (?), Drug Dog steal player cope item (1), AugCop Motor Smash (1), 
-              AugCop Laser Shot (1), AugCop Rapid Fire (2), AugCop Radio Sync (1), AugCop Summon Car (1), 
-              NatMil Scramble AugTech (1), NatMil Drain AugTech (1), NatMil Tracking Chip Implant (1), Agent Tracking Implant (3), 
-              Agent Scramble AugTech (3), Agent Disable AugTech (3), Agent Scanblade (1), Agent Metamizer Pistol (1),
-              Agent Med Synthesizer (1), Agent Administer T (2) 
+	OverWorld:
+		Jen walking, Jen and Tipzl Talking (2), Jen emotions (3), Tipzl Emotions (3), Death by Police Brutality (3), 
+		Death by Cis Lynch Mob (1), Death to vigalante Terfs (2), , Fishing Fountain (2), Fishing Drainage Ditch (2), 
+		Luminousz Lights (xyz), Luminousz Billboards (?), Drug Dog steal player cope item (1), AugCop Motor Smash (1), 
+		AugCop Laser Shot (1), AugCop Rapid Fire (2), AugCop Radio Sync (1), AugCop Summon Car (1), 
+		NatMil Scramble AugTech (1), NatMil Drain AugTech (1), NatMil Tracking Chip Implant (1), Agent Tracking Implant (3), 
+		Agent Scramble AugTech (3), Agent Disable AugTech (3), Agent Scanblade (1), Agent Metamizer Pistol (1),
+		Agent Med Synthesizer (1), Agent Administer T (2) 
 
 
 Art:
