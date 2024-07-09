@@ -89,14 +89,14 @@ Art:
 
 Music & Sound:
 
-  Rung Dialog Loop, Langur Dialog Loop, Prolog and Opening Cutscene Music (2),
+  Langur Dialog Loop, Prolog and Opening Cutscene Music (2),
   Combat Loops (6?), Club Androlyte Music (6), Luminousz District Music (2?), 
   Park Music (good) (1), Park Music Distress (1), Trainyard Music (1), 
   Trainyard Sound Fx (4), Recycling Plant Music (1), Recycling Plant Sound Fx (3)
   RePlant Junkyard Music (1), RePl.Jyard Sound Fx (2), RePl.Jyard Music (distress)(1),
   Menu Select (2), Menu Back (1), Quit (2), New Game Select (1), Load (1), 
-  Title Screen Music (1?), Luminousz Sound Fx (3?), Arcade Music, Kroneq Dialog Loop (2/3),
-  Gutter Hon (1/1), Live Through (1/1), 
+  Title Screen Music (1?), Luminousz Sound Fx (3?), Arcade Music, 
+  "Hormonal, Fearful, Electrochemical me," 
   
 
 
@@ -116,6 +116,22 @@ Terrain:
 User Interface:
 
   Character Crafting Menus and Submenus, ToolTips, 
+
+  Tipzl Pwr Tree: 
+	Core Clock, Firewall, Drop Table, Pixel Shift, Interference, Encrypt Coms,
+	Summon Robot (and its variants), Robotics page branches into Robotics 6-10 
+	or Nanobotics, Hacksyncrasies, Tipzelated Pixilation, Dig Inc Modules,
+	Dig Inc Mods, Elex inc modules, Elex Inc mods, Petroliminal Int. Modifications,
+	Petroliminal International's Modules,
+
+  Jen Pwr Tree: 
+	Core Charge Decay, Electrokenetic Blast, Power Infused, 
+
+  Hatman Pwr Tree:
+	Sheen, Sheen modified CbtSkills representations, Sword styles tree,
+
+	Sword Styles:
+		Taijigen/Multidimensional, 
 
 
 Writing:
@@ -146,7 +162,8 @@ Music & Sound:
   Combat Loops (1/6), Boss Fight Music (1/?), Scout Dialog Loop (1/1), Visage Loop (1/1),
   Tipzl Special Dialog (1/?), Jen Wonders (1/1), Tipzls Shoe Laces (1/?), Use Item Fx(2),
   Menu Scroll FX (3/?), City Deep (1/1), Asphalt Sarc (1/1), Alley Ghost Loop (1/1), 
-  Kronwq Dialog Loop (1/3), Inject E/T (1/1) Title Screen Music (1/5)
+  Kronwq Dialog Loop (1/3), Inject E/T (1/1) Title Screen Music (1/5), Kroneq Dialog Loop (2/3),
+  Gutter Hon (1/1), Live Through (1/1)
 
 Social Media:
 
@@ -165,6 +182,14 @@ User Interface/UX:
   Tipzl Character Screen (Green, Aqua) (1/1), Jen Character Screen (Green, Aqua) (1/1), 
   All Inventory Tab (Grn, Aqua), Craft Inventory Tab (Grn, Aqua), Copes Menu (Grn, Aqua), 
   Jen Powers Menu (Grn, Aqua), Tipzl Powers Menu (Grn, Aqua), Skills Template (Grn, Aqua),
+
+    Aug Power Icons:
+	Jen: Gauss Lance, Charge, Discharge, Ionize, Traumatic Magnetization, 
+	Indoskeleton Circuitry t0(passive),
+
+	Tipzl: Ar Glasses t0(passive), Hack (binary), Data Exfiltration (terminal), 
+
+	Hatman
   
 
 
@@ -276,7 +301,7 @@ the closing credits of the game.
 
 Community or software attributions:
 
-Bodhi Linux - What I developed on
+Lubuntu - What I developed on
 GoDot - Game engine used 
 Aseprite - Used to make pixel art in the game
 LMMS - FOSS DAW for music
