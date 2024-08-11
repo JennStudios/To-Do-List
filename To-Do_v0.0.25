@@ -104,11 +104,11 @@ User Interface:
   	Character Crafting Menus and Submenus, ToolTips, Androlyte Glow Theme/Neon Purple
 
   Tipzl Pwr Tree: 
-	Core Clock, Firewall, Pixel Shift, Interference, Encrypt Coms,
+
 	Summon Robot (and its variants), Robotics page branches into Robotics 6-10 
 	or Nanobotics, Hacksyncrasies, Tipzelated Pixilation, Dig Inc Modules,
 	Dig Inc Mods, Elex inc modules, Elex Inc mods, Petroliminal Int. Modifications,
-	Petroliminal International's Modules,
+	Petroliminal International's Modules, Encrypt Coms
 
   Jen Pwr Tree: 
 	Grill Girl (survival), Jen Zen(Survival) 
@@ -177,7 +177,8 @@ User Interface/UX:
 		
 
 	Tipzl:  Ar Glasses (passive), Hack (binary), Data Exfiltration (terminal), 
-	        Drop Table, Disable Organ, Disable Augmentation, 
+	        Drop Table, Disable Organ, Disable Augmentation, Pixel Shift,
+		Core Clock, Firewall, 
 		
 	Hatman:
   
