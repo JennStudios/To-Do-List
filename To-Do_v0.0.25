@@ -8,20 +8,6 @@ below as act 1.) When I do it will be updated to 0.0.3. This version isn't
 insignificant. The 0s represent which phase of development the to-do list
 is in. First zero is beta, second 0 is alpha, third is pre-alpha (we are here.)
 
-Pre-alpha means the game is still deep in the production stage. Assets like
-art, music, animations, tile sets, maps, gui, etc. are still having
-their foundations made. Over time, and as we move to alpha (testing unstable
-builds to get data and feed back to improve for different hardware and stuff)
-
-Alpha is not really a game release even though it is play testing the 
-earliest versions of the game. The point is to make sure the game is stable,
-that menus and controls work, and towards the end of alpha will be building 
-ontop of the foundations laid in alpha and pre-alpha. 
-
-Beta is most analogous to early access. The core of the game is finished 
-and the rest is being fleshed out. Testing complicated systems. Polishing the
-game. Beta is the last phase before official release.
-
 more meta details at the end of this list
 
 ====================[Act 1]======================
